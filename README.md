@@ -5,7 +5,7 @@ This project is a clone of the Discord blog section, where **HTML**, **CSS**, an
 
 ### :memo: Note<br/>
 ***
-The official Discord blog section has been modified, so it has changed visually since this project was created.
+The official Discord blog page has been modified, so it has changed visually since this project was created.
 
 :link: Page link: https://discord.com/blog<br/>
 
