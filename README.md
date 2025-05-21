@@ -9,7 +9,7 @@ The official Discord blog page has been modified, so it has changed visually sin
 
 ### :pushpin: Links<br/>
 ***
-:link: Design taken as reference for this project.: https://discord.com/blog<br/>
+:link: Design taken as reference for this project: https://discord.com/blog<br/>
 
 :link: Live Demo:  https://chrismetalx.github.io/Discord-blog-page-clone/<br/>
 
