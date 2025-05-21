@@ -10,5 +10,5 @@ The official Discord blog page has been modified, so it has changed visually sin
 :link: Page link: https://discord.com/blog<br/>
 
 :link: Link to the project:  https://chrismetalx.github.io/Discord-blog-page-clone/<br/>
-
+___
 **This project was carried out for learning purposes.**
