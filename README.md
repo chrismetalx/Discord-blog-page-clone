@@ -3,9 +3,9 @@
 ***
 This project is a clone of the Discord blog section, where **HTML**, **CSS** and **BOOTSTRAP** were implemented for its creation. and it has also been made responsive.<br/>
 
-### :memo: Note<br/>
+### :memo: > [!NOTE]<br/>
 ***
-The official Discord blog page has been modified, so it has changed visually since this project was created.<br/>
+> The official Discord blog page has been modified, so it has changed visually since this project was created.<br/>
 
 ### :pushpin: Links<br/>
 ***
