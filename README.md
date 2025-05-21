@@ -1,7 +1,7 @@
 # :page_with_curl: README<br/>
 ### Discord Blog Page Clone<br/>
 ***
-This project is a clone of the Discord blog section, where **HTML**, **CSS**, and **BOOTSTRAP** were implemented for its creation. and it has also been made responsive.<br/>
+This project is a clone of the Discord blog section, where **HTML**, **CSS** and **BOOTSTRAP** were implemented for its creation. and it has also been made responsive.<br/>
 
 ### :memo: Note<br/>
 ***
